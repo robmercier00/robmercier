@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Barlow-Medium
+font link: https://fonts.google.com/specimen/Barlow
+font author: Jeremy Tribby
+font author site: https://tribby.com/
+
+
+icon designer: Muneer A.Safiah
+icon designer link: /mabusafiah
+        
+{"bg":"transparent","icon-gradient-0":"#01695A","icon-gradient-1":"#2CC26F","font":"#000000","slogan":"#141414"}
+      
