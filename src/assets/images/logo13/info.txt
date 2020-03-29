@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Digitalt
+font link: http://www.glukfonts.pl/font.php?font=Digitalt
+font author: Gluk Fonts
+font author site: http://www.glukfonts.pl/
+
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","font":"#000000","icon-gradient-0":"#021802","icon-gradient-1":"#60DBCC","slogan":"#141414"}
+      

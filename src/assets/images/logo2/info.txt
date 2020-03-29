@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Baloo-Regular
+font link: https://fonts.google.com/specimen/Baloo
+font author: Ek Type
+font author site: https://ektype.in/
+
+
+icon designer: Vectors Market
+icon designer link: /vectorsmarket
+        
+{"bg-gradient-0":"#20484F","bg-gradient-1":"#4E9BAB","font":"#ffffff","icon":"#ffffff","slogan":"#ffffff"}
+      
