@@ -8,6 +8,10 @@ import { faChevronUp } from '@fortawesome/free-solid-svg-icons';
   styleUrls: ['../app.component.scss']
 })
 export class ExpertiseComponent implements OnInit {
+  constructor() { }
+
+  ngOnInit(): void {
+  }
   isHiddenExpertise = false;
   faChevronDefault = faChevronDown;
   faChevronDown = faChevronDown;
