@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Nexa_Free_Bold
+font link: https://www.fontfabric.com/nexa-free-font/
+font author: Font Fabric
+font author site: http://www.fontfabric.com/
+
+
+icon designer: Symbolon
+icon designer link: /symbolon
+        
+{"bg":"transparent","icon-gradient-0":"#2F8632","icon-gradient-1":"#BEFF7F","font":"#000000","slogan":"#141414"}
+      

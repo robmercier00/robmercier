@@ -161,6 +161,15 @@ header h2 {
 .modules-left span {
   cursor: pointer;
 }
+.show-more-experience {
+    cursor: pointer;
+    margin-top: 75px;
+}
+#unexpanded-expertise {
+    cursor: pointer;
+    margin-top: 25px;
+    font-size: .8em
+}
 .modules-right {
   padding-left: 45px;
   float: left;
@@ -551,9 +560,6 @@ header h2 {
       height: 10%!important;
   }
   #findme, #aboutme {
-    display: $noneImportant;
-  }
-  .glyphicon-chevron-down {
     display: $noneImportant;
   }
   .contactme {
